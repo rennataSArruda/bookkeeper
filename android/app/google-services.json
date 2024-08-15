@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429146348251",
+    "project_id": "bookkeeper-8680b",
+    "storage_bucket": "bookkeeper-8680b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429146348251:android:9fa4ba5db9d14d1b7b8afe",
+        "android_client_info": {
+          "package_name": "com.mycompany.rennatabookkeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxmrcF3mqckejXXup40_74W2YAwX9XGdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
