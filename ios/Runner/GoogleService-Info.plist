@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyApuoH17hcdsmkO_4Rt82aFpppagv3Poyg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>429146348251</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.rennatabookkeeper</string>
+	<key>PROJECT_ID</key>
+	<string>bookkeeper-8680b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bookkeeper-8680b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:429146348251:ios:dca518cf63ddcad57b8afe</string>
+</dict>
+</plist>
